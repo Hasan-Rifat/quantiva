@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "preinstall": "npx npm-force-resolutions"
+    "preinstall": "npx npm-force-resolutions prisma generate"
   },
   "dependencies": {
     "@babel/traverse": "^7.24.6",
