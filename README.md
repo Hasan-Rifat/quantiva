@@ -1,4 +1,4 @@
-# [Horizon AI Template PRO](https://horizon-ui.com/ai-template) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20AI%20Template,%20the%20trendiest%20ChatGPT%20AI%20admin%20template%20for%20%23nextjs%20and%20%23react!%0A%0Ahorizon-ui.com/ai-template%20)
+# [Quantiva](https://horizon-ui.com/ai-template) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20AI%20Template,%20the%20trendiest%20ChatGPT%20AI%20admin%20template%20for%20%23nextjs%20and%20%23react!%0A%0Ahorizon-ui.com/ai-template%20)
 
 ![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/la-sabana.svg?maxAge=2592000)](https://github.com/horizon-ui/la-sabana/issues?q=is%3Aopen+is%3Aissue)
@@ -25,9 +25,9 @@ Each element is well presented in a very complex documentation. You can read mor
 
 ### Quick Start
 
-Install Horizon AI Template PRO by running either of the following:
+Install Quantiva by running either of the following:
 
-- Buy Horizon AI Template PRO from our website
+- Buy Quantiva from our website
 
 - Open Horizon AI Template's.zip file in your code editor (eg. Visual Studio Code)
 
@@ -59,9 +59,9 @@ View <a href="https://horizon-ui.com/horizon-ai-template/?ref=readme-la-sabana" 
 
 ### Versions
 
-| Free Version                                                                                                                                                         | PRO Version                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon ChatGPT AI Template](https://i.ibb.co/Qmym1qt/horizon-ai-template-presentation-image-open-source.png)](https://github.com/horizon-ui/chatgpt-ai-template) | [![Horizon AI Template PRO](https://i.ibb.co/ChL2fvf/horizon-ai-template-presentation-image.png)](https://www.horizon-ui.com/ai-template?ref=readme-la-sabana) |
+| Free Version                                                                                                                                                         | PRO Version                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Horizon ChatGPT AI Template](https://i.ibb.co/Qmym1qt/horizon-ai-template-presentation-image-open-source.png)](https://github.com/horizon-ui/chatgpt-ai-template) | [![Quantiva](https://i.ibb.co/ChL2fvf/horizon-ai-template-presentation-image.png)](https://www.horizon-ui.com/ai-template?ref=readme-la-sabana) |
 
 ### Figma Version
 
@@ -94,4 +94,3 @@ Connect with the community! Feel free to ask questions, report issues, and meet 
 ⭐️ [Copyright 2023 Horizon UI ](https://www.horizon-ui.com/?ref=readme-la-sabana)
 
 📄 [Horizon UI License](https://horizon-ui.notion.site/End-User-License-Agreement-8fb09441ea8c4c08b60c37996195a6d5)
-# quantiva

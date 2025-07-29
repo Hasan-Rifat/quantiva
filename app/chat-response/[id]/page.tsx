@@ -86,7 +86,39 @@ const info: (
     url: 'https://n8n-n8n.nkzjik.easypanel.host/webhook/CU4L',
     inputFields: true,
   },
-  /*   {
+  /*  {
+    id: '1',
+    title: 'Insights de tendencias académicas',
+    description:
+      ' Explora de forma automática las tendencias del mercado laboral para alinear la oferta académica con las demandas reales del entorno profesional. Este flujo analiza datos de portales de empleo, redes profesionales y encuestas de egresados para identificar habilidades en demanda, sectores en crecimiento y perfiles más buscados. Úsalo para tomar decisiones estratégicas sobre nuevos programas, ajustar contenidos y enfocar la comunicación en lo que realmente busca el mercado.',
+    url: 'https://n8n-n8n.nkzjik.easypanel.host/webhook/CU1S',
+    inputFields: true,
+  },
+  {
+    id: '2',
+    title: 'Segmentación de público académico objetivo',
+    description:
+      'Identifica y agrupa automáticamente a los posibles aspirantes según su perfil académico, intereses y comportamiento. Este flujo te permite conocer mejor a tu audiencia para diseñar campañas más efectivas, personalizar la comunicación y enfocar esfuerzos en los perfiles con mayor probabilidad de inscripción. Ideal para equipos que desean optimizar la captación de estudiantes y tomar decisiones basadas en datos reales.',
+    url: 'https://n8n-n8n.nkzjik.easypanel.host/webhook/CU2S',
+    inputFields: true,
+  },
+  {
+    id: '3',
+    title: 'Tendencias laborales',
+    description:
+      'Analiza datos del mercado laboral para identificar habilidades, sectores y perfiles profesionales en alta demanda. Te ayuda a tomar decisiones estratégicas sobre nuevos programas, ajustar contenidos y enfocar tu oferta académica según lo que hoy busca el mundo laboral.',
+    url: 'https://n8n-n8n.nkzjik.easypanel.host/webhook/CU3S',
+    inputFields: true,
+  },
+  {
+    id: '4',
+    title: 'Análisis de rendimiento web académico',
+    description:
+      'Analiza el tráfico de tu sitio web académico usando datos de Google Analytics. Te muestra qué páginas de programas funcionan mejor, cuáles necesitan mejoras y dónde los usuarios pierden interés, para que puedas optimizar la experiencia y aumentar la conversión.',
+    url: 'https://n8n-n8n.nkzjik.easypanel.host/webhook/CU4S',
+    inputFields: true,
+  },
+  {
     id: '5',
     title: 'Ideación de nuevos programas académico',
     description:
@@ -328,13 +360,12 @@ export default function ServicePage({
             <Flex gap={2} wrap="wrap">
               <Button
                 type="submit"
-                bg={'#252529'}
-                color={'white'}
+                colorScheme="blue"
                 // leftIcon={<FiSend />}
                 isLoading={loading}
                 flex={1}
               >
-                Generate your essay
+                Generar
               </Button>
               {messages.length > 0 && (
                 <>

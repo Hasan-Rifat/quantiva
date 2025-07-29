@@ -5,7 +5,7 @@ import TemplateCard from '@/components/card/TemplateCard';
 import Bg from '../../public/img/inicio/bg.svg';
 import title from '../../public/img/inicio/title.svg';
 
-import img1 from '../../public/img/inicio/locatel.png';
+import img1 from '../../public/img/inicio/promt-icons/1.svg';
 import img2 from '../../public/img/inicio/promt-icons/2.svg';
 import img3 from '../../public/img/inicio/promt-icons/3.svg';
 import img4 from '../../public/img/inicio/promt-icons/4.svg';
@@ -52,7 +52,6 @@ const cardData = [
     name: 'Icomm Locatel',
     description: 'Gestion en tiempo real del CRM Icomm',
   },
-
   /*  {
     id: 5,
     // link: '/linkedin-message',

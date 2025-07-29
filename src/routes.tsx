@@ -643,7 +643,7 @@ const NavigationRoutes = ({ userRole }: NavigationRoutesProps) => {
 
   // Admin-only routes
   const adminRoutes: IRoute[] = [
-    /* {
+    /*  {
       name: 'Página administrador',
       path: '/admin',
       icon: createIcon(MdLock),
